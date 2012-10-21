@@ -4,7 +4,7 @@
 #
 #   include vlc
 class vlc {
-  $version = '2.0.3'
+  $version = '2.0.4'
 
   package { 'VLC':
     provider => 'appdmg',
