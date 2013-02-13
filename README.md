@@ -1,12 +1,14 @@
 # VLC Puppet Module for Boxen
 
-Requires the `boxen` puppet module.
-
 ## Usage
 
 ```puppet
 include vlc
 ```
+
+## Required Puppet Modules
+
+None.
 
 ## Developing
 
